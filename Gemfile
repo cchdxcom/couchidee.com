@@ -24,3 +24,9 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #Jekyll Minifier using htmlcompressor for html, uglifier for js and css
 gem 'jekyll-minifier', '~> 0.1.10'
+
+# Jekyll Admin - provides users with a traditional CMS-style graphical 
+# interface to author content and administer Jekyll sites
+gem 'jekyll-admin', group: :jekyll_plugins
+
+gem 'rackup'
