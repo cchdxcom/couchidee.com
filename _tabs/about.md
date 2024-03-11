@@ -34,8 +34,8 @@ benötigt...
 
 ### Ha! Hier gibts keinen Cookie-Banner...  
 
-Kurz zum `Datenschutz` - hier (auf Couchidee.com) sowie auch bei meinen anderen Projekten gibt es grundsätzlich kein Tracking. Ich Respektiere deine Privatsphäre. Denn meine Privatsphäre versuche ich im Alltag ebenfalls durch diverse Tools weitesgehend zu schützen.
+Kurz zum `Datenschutz` - hier (auf Couchidee.com) sowie auch bei meinen anderen Projekten gibt es grundsätzlich kein Tracking. Ich respektiere deine Privatsphäre. Denn meine Privatsphäre versuche ich im Alltag ebenfalls durch diverse Tools weitesgehend zu schützen.
 
-Für mein kleines digitales Notizbuch nutze ich das Flat-File-CMS namens [Jekyll](https://jekyllrb.com/){:target="_blank" rel="nofollow"}. Diese Webseite liegt komplett auf github - siehe unter **Projekte** - dort findest du den Direktlink zum Branch.
+Für mein kleines digitales Notizbuch nutze ich das Flat-File-CMS namens [Jekyll](https://jekyllrb.com/){:target="_blank" rel="nofollow"}. Diese Webseite liegt komplett auf GitHub - siehe unter **Projekte** - dort findest du den Direktlink zum Branch.
 
 Wenn du Fragen hast, schreibe mir gern eine [Mail](mailto:couchidee@posteo.de).
