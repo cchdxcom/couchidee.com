@@ -18,8 +18,13 @@ Hier geht es vorrangig um Themen wie Online-Marketing, Development und IT.
 
 </div>
 
-## Features
+## Features 
+Couchidee
+- Portfolio-Tab
+- Full Site (incl. Assets) => self hosted
 
+-----
+Standard Chirpy
 - Dark / Light Theme Mode
 - Localized UI language
 - Pinned Posts on Home Page
