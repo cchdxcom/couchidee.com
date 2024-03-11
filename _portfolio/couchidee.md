@@ -5,8 +5,8 @@ order: 2
 ## Informationen zum Projekt
 **couchidee.com**  ist ein kleines persönliches, digitales Notizbuch. Hier geht es vorrangig um Themen wie Online-Marketing, Development und IT.
 
-Verfügbar auf [github](https://github.com/cchdxcom/couchidee.com){:target="_blank" rel="nofollow"}
-Branch: couchidee
+Verfügbar auf [github](https://github.com/cchdxcom/){:target="_blank" rel="nofollow"}
+-> [Branch: couchidee](https://github.com/cchdxcom/couchidee.com/tree/couchidee){:target="_blank" rel="nofollow"}
 
 <hr>
 
