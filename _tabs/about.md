@@ -34,6 +34,6 @@ benötigt...
 
 Kurz zum `Datenschutz` - hier (auf Couchidee.com) sowie auch bei meinen anderen Projekten gibt es grundsätzlich kein Tracking. Ich respektiere deine Privatsphäre. Denn meine Privatsphäre versuche ich im Alltag ebenfalls durch diverse Tools weitesgehend zu schützen.
 
-Für mein kleines digitales Notizbuch nutze ich das Flat-File-CMS namens Jekyll. Diese Webseite liegt komplett auf GitHub - siehe unter **Projekte** - dort findest du den Direktlink zum Branch.
+Für mein kleines digitales Notizbuch nutze ich das Flat-File-CMS namens Jekyll. Diese Webseite liegt komplett auf GitHub - siehe unter **Portfolio** - dort findest du den Direktlink zum Branch.
 
 Wenn du Fragen hast, schreibe mir gern eine [Mail](mailto:couchidee@posteo.de).
