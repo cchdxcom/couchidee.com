@@ -24,8 +24,6 @@ Vielleicht noch ein paar Dinge mit denen ich mich die letzten 20 Jahre mehr oder
 * **Online-Marketing**: die gute alte `Marketing-Theorie` a la `Zielgruppen`, `Strategien, Taktiken` u.v.m., `technisches SEO`, `Content SEO + Storytelling`, `Onpage-/Offpage SEO`, `SEA`, `Conversion-Optimierung`, `E-Mail-Marketing`, ein wenig `SEA`, `Social-Media`, `Affiliate Marketing` und so weiter... dazu kommen noch einige SEO-Tools wie `RYTE`, `Seobility`, `Google Keyword-Planner`, `GSC` sowie natürlich der und was man halt so alles 
 benötigt...
 
-* dazu kommen noch einige **SEO-Tools** wie `RYTE`, `Seobility`, `Google Keyword-Planner`, `GSC` sowie natürlich der `ScreamingFrog` und was man halt so alles benötigt...  
-
 * Da ich während meiner beruflichen Laufbahn auch einige Zeit lang auch sehr intensiv mit der **HR**-Abteilung zusammenarbeiten durfte kamen natürlich auch die Themen `Employer Branding` und `online Recruiting` etc. nicht zu kurz.
 
 * **AI**: `ChatGPT`, `Perplexity`, `MidJourney`, `BlueWillow` und weitere Tools zum testen der Möglichkeiten (wie z.B.: `elevenLabs für Voice Creation`)
