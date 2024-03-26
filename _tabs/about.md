@@ -9,9 +9,10 @@ Vielleicht noch ein paar Dinge mit denen ich mich die letzten 20 Jahre mehr oder
 
 * **Web**: `HTML`, `CSS`, `PHP`, `JS5/JS6`, `Vue + Nuxt2`, `MySQL/SQL` und wenige Monate berufsbedingt auch mal `PLSQL`
 
-* **Coding** ausführlicher: `Python`, `Qt5`, Lieblings-IDE: `VS Code`
+* **Coding** ausführlicher: `Python`, `Qt5`
     * schon lange her `C`, `C#`, `C++`
     * toDo: `Electron`
+    * bevorzugte IDE: `VS Code` / `VSCodium`
 
 * **Grafik-Tools**: `Photoshop`, `Affinity Suite`, `Gimp`,
 
