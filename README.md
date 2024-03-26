@@ -52,6 +52,24 @@ To learn how to use, develop, and upgrade the project, please refer to the [Wiki
 
 This project is published under [MIT License][license].
 
+### Commands
+git submodule init 
+git submodule update    
+
+bash tools/init --no-gh | ./tools/run
+
+npm install / npm i
+npm run
+npm run dev
+npm run build
+
+bundle
+bundle exec jekyll serve
+
+bundle exec jekyll build --trace
+
+set JEKYLL_ENV=production | bundle exec jekyll build --trace
+
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
 [codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
