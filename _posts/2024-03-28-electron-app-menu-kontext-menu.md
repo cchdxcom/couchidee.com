@@ -14,7 +14,7 @@ Definiert wird das eigene Menü innerhalb der `function createWindow()`
 
 Für Mac OSX muss zusätzlich die Plattform abgefragt werden: siehe [https://www.electronjs.org/de/docs/latest/api/menu#beispiele](https://www.electronjs.org/de/docs/latest/api/menu#beispiele)
 
-## Eigenes App-Menü erstellen
+## App-Menü erstellen
 
 Um eine eigenes Menü verwenden zu können, musst du zuerst das Paket `Menu` importieren. Das könnte z.B.: so aussehen:
 
@@ -35,7 +35,7 @@ const menu = Menu.buildFromTemplate(menuTemplate);
 Menu.setApplicationMenu(menu);
 ```
 
-## Beispielcode
+## App-Menü Beispielcode
 
 Nachfolgend nun ein Beispielmenü. Daran wird deutlich, wie das Grundgerüst aufgebaut ist.
 
@@ -99,7 +99,7 @@ Mehr Informationen findest du unter:
 
 https://www.electronjs.org/de/docs/latest/api/menu-item
 
-## Kontextmenu
+## Kontext-Menü erstellen
 
 Um ein eigenes Kontextmenü zu erstellen benütigst du wieder zuerst einen entsprechenden Import von `MenuItem`:
 
@@ -109,7 +109,7 @@ Identisch zum App-Menü wird das Kontextmenu in der Funktion `function createWin
 
 Um das Kontextmenu nun dem rechtsklick-Event hinzuzufügen, benötigst du die Web-Content-Eigenschaften vom `BrowserWindow`
 
-## Beispielcode
+## Kontext-Menü Beispielcode
 
 ```javascript
  const kontextMenu = new Menu();
