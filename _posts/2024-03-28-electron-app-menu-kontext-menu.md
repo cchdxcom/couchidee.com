@@ -132,3 +132,19 @@ Um das Kontextmenu nun dem rechtsklick-Event hinzuzufügen, benötigst du die We
   kontextMenu.popup(mainWindow, params.x, params.y);
   });
 ```
+## App-Icon hinzufügen
+
+Um ein App-Icon hinzuzufügen, benötigst du nur eine Zeile Code im `BrowserWindow`.
+
+```javascript
+const mainWindow = new BrowserWindow({
+    // Icon hinzufügen
+    icon: "assets/icons/app_icon.png",
+                                      
+    width: 800,
+    height: 600,
+    webPreferences: {
+      nodeIntegration: true
+    },
+  });
+```
