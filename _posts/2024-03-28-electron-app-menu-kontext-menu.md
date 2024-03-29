@@ -8,11 +8,11 @@ title: 'Electron App-Menü und Kontext-Menü'
 
 Jede Anwendung in Electron bringt bereits ein vordefiniertes Standard-Menü mit, solange du kein eigenes Menü erstellt hast.
 
-[https://www.electronjs.org/de/docs/latest/api/menu](https://www.electronjs.org/de/docs/latest/api/menu)
+[https://www.electronjs.org/de/docs/latest/api/menu](https://www.electronjs.org/de/docs/latest/api/menu){:target="_blank" rel="nofollow"}
 
 Definiert wird das eigene Menü innerhalb der `function createWindow()`
 
-Für Mac OSX muss zusätzlich die Plattform abgefragt werden: siehe [https://www.electronjs.org/de/docs/latest/api/menu#beispiele](https://www.electronjs.org/de/docs/latest/api/menu#beispiele)
+Für Mac OSX muss zusätzlich die Plattform abgefragt werden: siehe [https://www.electronjs.org/de/docs/latest/api/menu#beispiele](https://www.electronjs.org/de/docs/latest/api/menu#beispiele){:target="_blank" rel="nofollow"}
 
 ## App-Menü erstellen
 
@@ -97,7 +97,7 @@ Siehe im Beispiel oben:
 
 Mehr Informationen findest du unter:
 
-https://www.electronjs.org/de/docs/latest/api/menu-item
+[https://www.electronjs.org/de/docs/latest/api/menu-item](https://www.electronjs.org/de/docs/latest/api/menu-item){:target="_blank" rel="nofollow"}
 
 ## Kontext-Menü erstellen
 
