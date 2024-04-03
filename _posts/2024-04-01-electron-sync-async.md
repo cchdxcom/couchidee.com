@@ -16,7 +16,7 @@ Das [remote-Modul](https://www.couchidee.com/posts/electron-remote-modul-child-p
 
 ## Webpreferences
 
-Wenn du in den `webPreferences` die Option`nodeIntegration: true` gewählt hast, kannst du alle beliebigen Node-Module und nativen Desktop-APIs im Frontend deiner Anwendung nutzen.
+Wenn du in den `webPreferences` die Option `nodeIntegration: true` gewählt hast, kannst du alle beliebigen Node-Module und nativen Desktop-APIs im Frontend deiner Anwendung nutzen.
 
 ## Beispiel
 
@@ -64,7 +64,7 @@ ipcMain.on('mitteilung', function(event){
 })
 ```
 
-Damit du das Event auch abfangen kannst, musst du noch im Render-Prozess auf die eingehende Nachricht (`'mitteilung 2'`) auf dem Event-Kanal achten. Heißt, wenn wie eine
+Damit du das Event auch abfangen kannst, musst du noch im Render-Prozess auf die eingehende Nachricht (`'mitteilung 2'`) auf dem Event-Kanal achten. 
 
 Dazu musst du in der routing.js nun noch folgende Funktion zum Anzeigen der Nachricht hinzufügen:
 
