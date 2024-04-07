@@ -8,7 +8,7 @@ title: 'Electron Notifications'
 
 Ein einfaches Beispiel für eine Benachrichtigung in Electron. In den Code-Beispielen befinden sich noch ein paar Kommentare - damit der Code evtl. besser verständlich ist.
 
-`index.hmtl`
+## index.hmtl
 
 ```html
 <!DOCTYPE html>
@@ -32,7 +32,7 @@ Ein einfaches Beispiel für eine Benachrichtigung in Electron. In den Code-Beisp
 </html>
 ```
 
-`main.js`
+## main.js
 
 ```javascript
 const { app, BrowserWindow, ipcMain} = require('electron')
@@ -64,7 +64,7 @@ app.on('activate', ()=>{
 })
 ```
 
-`routing.js`
+## routing.js
 
 ```javascript
 // einfache Benachrichtigung die sofort beim öffnen der App aufgerufen wird.
