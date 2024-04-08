@@ -4,7 +4,7 @@ tags: ['Electron', 'Screen-Recorder']
 title: 'Electron Screen-Recorder / process-API'
 ---
 
-## Einleitung
+## process-API
 
 Electron bietet dir verschiedene Möglichkeiten, auf die System-Informationen und Ressourcen von dem gerade verwendeten Computer zuzugreifen.
 
@@ -32,11 +32,11 @@ Percentage of CPU used since the last call to getCPUUsage:
 </p>
 ```
 
-Screen-Recorder (Screencapture) in Electron
+## Screen-Recorder (Screencapture) in Electron
 
 Der folgende Screen-Recorder wurde unter Windows getestet.
 
-Hilfreiche Links:
+### Hilfreiche Links:
 
 - desktop-capturer:
   [https://www.electronjs.org/de/docs/latest/api/desktop-capturer](https://www.electronjs.org/de/docs/latest/api/desktop-capturer){:target="_blank" rel="nofollow"}
@@ -48,7 +48,7 @@ Hilfreiche Links:
   [MediaRecorder - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder){:target="_blank" rel="nofollow"}
   
 
-## index.hmtl
+### index.hmtl
 
 ```html
 <!DOCTYPE html>
@@ -73,7 +73,7 @@ Hilfreiche Links:
 
 ```
 
-## main.js
+### main.js
 
 ```javascript
 
@@ -112,7 +112,7 @@ app.on('activate', ()=>{
 
 ```
 
-## routing.js
+### routing.js
 
 ```javascript
 
