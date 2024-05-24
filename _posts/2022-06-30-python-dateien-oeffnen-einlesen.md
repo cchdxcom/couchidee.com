@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python','Dateien', 'csv']
 title: 'Python Dateien öffnen und einlesen'
 ---

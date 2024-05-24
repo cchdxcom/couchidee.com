@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Electron']
 tags: ['Electron', 'Dateien', 'Remote']
 title: 'Electron Dateisystem'
 ---

@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python', 'Queue', 'Priority Queue', 'csv', 'Dateien', 'Datenstrukturen']
 title: 'Python Queue und Priority Queue'
 ---

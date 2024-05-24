@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Electron']
 tags: ['Electron', 'Remote', 'Fenster']
 title: 'Electron Remote-Modul (+ parent / child)'
 ---

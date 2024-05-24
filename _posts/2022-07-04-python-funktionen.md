@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python', 'Funktionen', 'matplotlib']
 title: 'Python Funktionen'
 ---

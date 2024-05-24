@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Electron']
 tags: ['Electron', 'Screen-Recorder']
 title: 'Electron Screen-Recorder / process-API'
 ---

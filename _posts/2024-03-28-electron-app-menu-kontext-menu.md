@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Electron']
 tags: ['Electron','Menü']
 title: 'Electron App-Menü und Kontext-Menü'
 ---

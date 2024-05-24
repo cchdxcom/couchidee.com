@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Electron']
 tags: ['Electron', 'sync', 'IPC']
 title: 'Electron IPC - async / sync'
 ---

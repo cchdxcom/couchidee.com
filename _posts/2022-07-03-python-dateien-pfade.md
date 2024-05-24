@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python','Dateien']
 title: 'Python Dateien und Pfade'
 ---

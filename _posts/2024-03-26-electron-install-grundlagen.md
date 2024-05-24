@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Electron']
 tags: ['Electron', 'install']
 title: 'Electron installieren und Grundlagen'
 ---

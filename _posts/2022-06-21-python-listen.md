@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Listen']
 title: 'Python Listen'
 ---

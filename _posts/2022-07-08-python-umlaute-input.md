@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python', 'Input', 'Umlaute', 'Dateien']
 title: 'Python Umlaute und Input'
 ---

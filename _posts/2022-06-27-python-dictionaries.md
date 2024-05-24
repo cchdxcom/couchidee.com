@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python','Dictionary', 'Dateien', 'csv']
 title: 'Python Dictionaries'
 ---

@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python', 'Exceptions', 'Dateien']
 title: 'Python Exceptions'
 ---

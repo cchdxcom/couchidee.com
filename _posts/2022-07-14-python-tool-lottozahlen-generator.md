@@ -1,5 +1,5 @@
 ---
-categories: ['Programmierung']
+categories: ['Programmierung', 'Python']
 tags: ['Python', 'Tool']
 title: 'Python Lottozahlen Generator'
 ---
