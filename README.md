@@ -53,9 +53,9 @@ To learn how to use, develop, and upgrade the project, please refer to the [Wiki
 This project is published under [MIT License][license].
 
 ### Commands
-* `git submodule init`
 * `git submodule update`    
-  
+* `git submodule init`
+* 
 * `bash tools/init --no-gh | ./tools/run`
   
 * `npm install / npm i`
