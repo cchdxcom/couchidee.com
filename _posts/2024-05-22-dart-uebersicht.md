@@ -156,6 +156,12 @@ map.forEach((key, value) {...});
 
 ### for-in
 
+In Dart wird die for-in-Schleife verwendet, um über die Elemente einer iterierbaren Datenstruktur wie [Listen](#list), [Sets](#set) oder [Maps](#map) zu iterieren.
+
+Die for-in-Schleife ist besonders nützlich, wenn du über alle Elemente einer Sammlung iterieren möchtest, ohne dich um Indizes oder Längen kümmern zu wollen. Sie ist kompakter und lesbarer als die herkömmliche for-Schleife in solchen Fällen.
+
+Zu beachten ist, dass die Reihenfolge der Elemente bei Sets und Maps nicht garantiert ist, da diese ungeordnete Datenstrukturen sind. Wenn die Reihenfolge wichtig ist, solltest du stattdessen über [Listen](#list) iterieren.
+
 ```dart
 List<int> list = [1, 3, 5, 7];
 for (int x in list) {
@@ -302,6 +308,35 @@ set.add(new Verein("Volleyball"));
 set.add(new Verein("Fussball"));
 set.add(new Verein("Handball"));
 ```
+
+### Unterschied List, Set, Map
+
+#### Listen
+
+- Geordnete Sammlungen von Elementen
+- Elemente werden über einen numerischen Index abgerufen
+- Erlauben Duplikate, dasselbe Element kann mehrmals vorkommen
+- Beispiel: `var list = [1][2][3][2];` // Duplikate sind erlaubt
+
+#### Maps
+- Ungeordnete Sammlungen von Schlüssel-Wert-Paaren
+- Jeder Schlüssel ist einzigartig und mit einem Wert verknüpft
+- Zugriff auf Werte erfolgt über die Schlüssel
+- Beispiel: `var map = {'name': 'John', 'age': 30};`
+
+#### Sets
+
+- Ungeordnete Sammlungen von eindeutigen Elementen
+- Jedes Element kommt nur einmal vor, Duplikate sind nicht erlaubt
+- Kein Indexzugriff, Iteration über Elemente
+- Beispiel: `var set = {'a', 'b', 'c'}; set.add('a');` // 'a' wird ignoriert
+
+#### Zusammengefasst
+
+- `Listen` für geordnete Sammlungen mit möglichen Duplikaten
+- `Maps` für Schlüssel-Wert-Zuordnungen
+- `Sets` für ungeordnete Sammlungen eindeutiger Elemente
+
 
 ### Enum
 
